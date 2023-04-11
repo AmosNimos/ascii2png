@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>ascii2png</title>
 </head>
 <body>
 	<h1>ascii2png</h1>
