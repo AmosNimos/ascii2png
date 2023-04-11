@@ -5,6 +5,7 @@
 </head>
 <body>
 	<h1>ascii2png</h1>
+	<img src="logo.png" alt="ascii2png skull logo">
 	<p>A command line tool for converting ASCII art to PNG images.</p>
 	<h2>Author</h2>
 	<p>Author: amosnimos</p>
