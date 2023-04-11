@@ -8,8 +8,6 @@
 	<p>A command line tool for converting ASCII art to PNG images.</p>
 	<h2>Author</h2>
 	<p>Author: amosnimos</p>
-	<h2>Date</h2>
-	<p>Date: Mon 10 Apr 2023 08:05:09 PM EDT</p>
 	<h2>Usage</h2>
 	<p>Usage: python ascii_to_image.py &lt;ascii_file&gt; &lt;output_file&gt; [OPTIONS]</p>
 	<h2>Options</h2>
